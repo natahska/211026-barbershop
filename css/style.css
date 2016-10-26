@@ -1,0 +1,38 @@
+*{
+	margin:0;
+	padding:0;}
+body{	
+	width: 2558px;
+	height: 1704px;
+	background-color: #242424;
+}
+.features-item p{
+	font-family: "Times New Roman, serif";
+	font-size: 14px;
+	line-height: 24px;
+	color: #f7f4f1;
+	font-style: regular;
+	float: left;
+	width: 300px;
+	height: 80;
+
+}
+b.features-name{
+    font-family: "Times New Roman, serif";
+	font-size: 30px;
+	line-height: 42px;
+	color: #f7f4f1;
+	font-style: regular;
+	float: left;
+	width: 125px;
+	height: 30;
+
+}
+h2.index-content-title{
+    font-family: "Times New Roman, serif";
+	font-size: 30px;
+	line-height: 42px;
+	color: #000000;
+	font-style: regular;
+	float: left;
+}
